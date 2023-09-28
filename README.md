@@ -1,1 +1,3 @@
-# TinDog
+### Project - TinDog Landing Page
+
+![project screenshot](screenshot.png)
